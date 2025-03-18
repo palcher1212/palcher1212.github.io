@@ -5,12 +5,24 @@
     <link>https://palcher1212.github.io/tags/hugo-blox/</link>
       <atom:link href="https://palcher1212.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://palcher1212.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://palcher1212.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://palcher1212.github.io/post/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://palcher1212.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;учебная-неделя-итоги&#34;&gt;Учебная неделя: итоги&lt;/h1&gt;
+&lt;p&gt;На этой неделе было много интересного! Изучали новые темы по программированию, немного разобрались с базами данных и даже попробовали себя в командной работе.&lt;/p&gt;
+&lt;p&gt;Особенно запомнилась лекция по алгоритмам — оказалось, что они окружают нас в повседневной жизни гораздо чаще, чем я думал. Теперь жду следующую неделю, надеюсь, будет еще больше практики!&lt;/p&gt;
+&lt;p&gt;Как у вас прошла неделя? Делитесь впечатлениями!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
