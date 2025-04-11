@@ -5,7 +5,7 @@
     <link>https://palcher1212.github.io/tags/hugo/</link>
       <atom:link href="https://palcher1212.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://palcher1212.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,32 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://palcher1212.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://palcher1212.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://palcher1212.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://palcher1212.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://palcher1212.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://palcher1212.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Персональный сайт исследователя на Hugo Academic</title>
+      <link>https://palcher1212.github.io/project/hugo/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://palcher1212.github.io/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;персональный-сайт-исследователя-на-hugo-academic-зачем-он-нужен-и-как-подойти-к-созданию&#34;&gt;Персональный сайт исследователя на Hugo Academic: зачем он нужен и как подойти к созданию&lt;/h1&gt;
+&lt;h2 id=&#34;академическая-идентичность-в-цифровую-эпоху&#34;&gt;Академическая идентичность в цифровую эпоху&lt;/h2&gt;
+&lt;p&gt;Научная деятельность давно вышла за рамки лабораторий и конференц-залов. Сегодня значительная часть научной коммуникации происходит онлайн. Персональный сайт — это не просто визитка исследователя, а полноценная платформа для демонстрации результатов, привлечения внимания коллег и обмена знаниями. Среди множества решений особое место занимает Hugo Academic — современная и мощная тема для статического сайта.&lt;/p&gt;
+&lt;h2 id=&#34;что-делает-hugo-academic-особенным&#34;&gt;Что делает Hugo Academic особенным?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это готовое решение, которое идеально подходит для нужд научного сообщества. Оно построено на базе генератора Hugo и сочетает в себе высокую производительность с гибкой архитектурой. Среди его преимуществ:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Фокус на научную аудиторию&lt;/strong&gt;: шаблоны и структура заточены под публикации, исследования, проекты, курсы и CV.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Простота редактирования&lt;/strong&gt;: контент представляется в виде обычных текстовых файлов — никакой CMS, только Git и Markdown.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкая структура сайта&lt;/strong&gt;: можно легко изменить навигацию, переупорядочить блоки, подключить сторонние виджеты или полностью поменять визуальную тему.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Мультиязычность и адаптивность&lt;/strong&gt;: сайт будет корректно отображаться как на мобильных устройствах, так и на международной аудитории.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;какой-функционал-особенно-полезен-научному-сотруднику&#34;&gt;Какой функционал особенно полезен научному сотруднику?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Библиография&lt;/strong&gt;: легко оформлять список публикаций, добавлять метаданные, прикреплять файлы и DOI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Исследовательские проекты&lt;/strong&gt;: отдельные страницы для описания задач, методик, результатов и соавторов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Курсы и учебные материалы&lt;/strong&gt;: если вы преподаёте, удобно структурировать информацию для студентов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Блог или новости&lt;/strong&gt;: вести заметки о текущей работе, поездках, идеях — и тем самым делать науку ближе к аудитории.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизация&lt;/strong&gt;: интеграция с Google Scholar, ORCID, GitHub и другими сервисами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это не просто инструмент для создания сайта. Это способ выстроить цифровое пространство, где научная деятельность приобретает четкие очертания, становится понятной и доступной. Такой сайт работает на вас: помогает в коммуникации, повышает видимость исследований и способствует построению академического имиджа.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
